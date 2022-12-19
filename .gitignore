@@ -1,0 +1,9 @@
+# Whitelist entries
+*
+
+# Misc
+!.gitignore
+!README.md
+
+# Script files
+!*.py
